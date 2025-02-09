@@ -11,7 +11,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone [<repository-url>](https://github.com/tejas-21sept/DRF-APis-for-storing-production-with-user-authentication-mechanism.git)
+git clone https://github.com/tejas-21sept/DRF-APis-for-storing-production-with-user-authentication-mechanism.git
 cd <project directory>
 ```
 
